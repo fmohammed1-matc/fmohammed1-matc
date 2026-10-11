@@ -42,11 +42,41 @@ Catches evil-twin attacks with 802.11 beacon analysis — flags spoofed BSSIDs, 
 
 A mini-SIEM: correlates OSINT threat-intel feeds against your local logs, scores IOCs, and maps everything geographically. Fully offline demo mode with fixture data.
 
+### [honeymesh](https://github.com/fmohammed1-matc/honeymesh) — SSH Honeypot Mesh
+
+![honeymesh showcase](assets/honeymesh.mp4)
+
+Distributed fake SSH servers that fingerprint attackers — client versions, sprayed credentials, reconnect timing — and score their intent 0–100. Live 3D globe with attack arcs and a top-attackers feed.
+
+### [usbsentinel](https://github.com/fmohammed1-matc/usbsentinel) — USB Attack Monitor
+
+![usbsentinel showcase](assets/usbsentinel.mp4)
+
+Watches USB insertions: device allowlist, BadUSB keystroke-injection heuristics (inhuman typing bursts), `autorun.inf` detection, and rapid-write exfiltration alerts. 3D device timeline dashboard.
+
+### [lateralens](https://github.com/fmohammed1-matc/lateralens) — Lateral Movement Detector
+
+![lateralens showcase](assets/lateralens.mp4)
+
+Builds a host→host session graph from auth logs and catches hackers hopping between machines: RDP/WinRM chains, impossible travel, off-hours jumps. 3D network graph with attack paths in red.
+
+### [leakguard](https://github.com/fmohammed1-matc/leakguard) — Secret Leak Scanner
+
+![leakguard showcase](assets/leakguard.mp4)
+
+Hunts exposed secrets with entropy + pattern detection across files *and* git history (finds secrets "deleted" in later commits). `--redact` mode masks everything. 3D file-risk treemap.
+
+### [bgpwatch](https://github.com/fmohammed1-matc/bgpwatch) — BGP Hijack Monitor
+
+![bgpwatch showcase](assets/bgpwatch.mp4)
+
+Watches internet routing for hijacks: origin-AS changes, suspicious more-specifics, and abnormal AS paths against trust anchors. 3D AS-path flow visualization with animated hijack arcs.
+
 ---
 
 ## 🧰 Skills
 
-Python · Network Security · DNS Analysis · Threat Intelligence · Malware Behavior Detection · Email Authentication (SPF/DKIM/DMARC) · 802.11 / Wireless Security · 3D Data Visualization · FastAPI
+Python · Network security · DNS analysis · Threat intelligence · Malware behavior detection · Email authentication (SPF/DKIM/DMARC) · 3D data visualization · Honeypots · Lateral movement detection · BGP security · Secrets management
 
 ---
 
