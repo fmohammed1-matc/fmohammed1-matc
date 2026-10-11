@@ -4,7 +4,7 @@
 
 <img src="assets/fahad.jpg" width="110" align="left" />
 
-Cybersecurity student at the University of Wisconsin–Whitewater. I build **defensive** security tools — detectors, tripwires, and forensics utilities — with dashboards people actually enjoy looking at.
+Aspiring security engineer. I got into cybersecurity because I wanted to understand how attacks actually work, not just read about them — so I started building. Everything here is **defensive**: tools that catch intruders, kill ransomware mid-attack, expose phishing, and find leaked secrets before the bad guys do.
 
 <br clear="both"/>
 
